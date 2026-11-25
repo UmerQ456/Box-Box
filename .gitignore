@@ -32,6 +32,3 @@ htmlcov/
 *.swp
 .DS_Store
 Thumbs.db
-
-# Temporary file listing generated from the local Australian GP snapshot
-aus_gp_files.txt
