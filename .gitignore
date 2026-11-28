@@ -35,3 +35,10 @@ Thumbs.db
 
 # Temporary file listing generated from the local Australian GP snapshot
 aus_gp_files.txt
+
+
+# Ignore my personal docs folder
+/docs/
+
+# Local RacingInsights sparse-checkout snapshot
+data/2026/
